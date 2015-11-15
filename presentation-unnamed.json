@@ -63,7 +63,7 @@
       "rotateZ": 0,
       "index": 0,
       "selected": false,
-      "active": false,
+      "active": true,
       "x": 180,
       "y": 180
     },
@@ -150,7 +150,7 @@
         },
         {
           "TextBox": {},
-          "x": 62,
+          "x": 63,
           "y": 575,
           "scale": {
             "x": 1,
@@ -205,116 +205,227 @@
       "rotateZ": 0,
       "index": 2,
       "selected": false,
-      "active": true,
+      "active": false,
       "x": 713,
       "y": 356
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 323,
+          "y": 9,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>Définitions</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 16,
+          "y": 140,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Les 4 libertés du logiciel libre :<br>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 22,
+          "y": 226,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "Liberté 0 : la liberté d'utiliser le logiciel pour quelque usage que ce soit (sans aucune restriction).<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 21,
+          "y": 282,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "Liberté 1 : la liberté d'étudier le fonctionnent du programme.<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 20,
+          "y": 332,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "Liberté 2 : la liberté de redistribuer des copies (sans limite).<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 17,
+          "y": 395,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "Liberté 3 : la liberté d'améliorer le programme (l’adapter aux besoins des divers utilisateurs)<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 29,
+          "y": 437,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "et d'en diffuser les améliorations de façon à ce que l'ensemble de la communauté&nbsp;<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 30,
+          "y": 480,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "puisse en bénéficier.<br>",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Richard_Matthew_Stallman.jpeg",
+          "type": "Image",
+          "x": 666,
+          "y": 505,
+          "scale": {
+            "x": 0.7099236641221374,
+            "y": 0.7099236641221374,
+            "width": 279,
+            "height": 211.55725190839692
+          },
+          "imageType": "JPEG",
+          "selected": false
+        },
+        {
+          "src": "https://pixabay.com/static/uploads/photo/2015/05/25/16/08/creative-commons-783531_640.png",
+          "type": "Image",
+          "x": 140,
+          "y": 563,
+          "scale": {
+            "x": 0.434375,
+            "y": 0.434375,
+            "width": 278,
+            "height": 153.76875
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 1.54,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 715,
+      "y": 544
     }
   ],
   "activeSlide": {
     "components": [
       {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/GNU_and_Tux.svg",
-        "type": "Image",
-        "x": 176,
-        "y": 56,
-        "scale": {
-          "width": 621,
-          "height": 435
-        },
-        "imageType": "SVG",
-        "selected": false
-      },
-      {
         "TextBox": {},
-        "x": 54,
-        "y": 498,
+        "x": 112,
+        "y": 23,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
-        "text": "<font>Libre n'est pas synonyme de gratuit</font>",
-        "size": 59,
-        "selected": false
-      },
-      {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Wikipedia-logo-v2-fr.svg",
-        "type": "Image",
-        "x": 847,
-        "y": 29,
-        "scale": {
-          "width": 135,
-          "height": 155
-        },
-        "imageType": "SVG",
+        "text": "Les logiciels libre en santé<br>",
+        "size": 72,
         "selected": false
       },
       {
         "TextBox": {},
-        "x": 62,
-        "y": 575,
+        "x": 341,
+        "y": 255,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
-        "text": "<font>Tout ce qui est gratuit a un coût</font>",
-        "size": 43,
+        "text": "<font>Pourquoi?</font>",
+        "size": 72,
         "selected": false
       },
       {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
-        "type": "Image",
-        "x": 738,
-        "y": 586,
+        "TextBox": {},
+        "x": 339,
+        "y": 407,
         "scale": {
-          "width": 197.03762512362542,
-          "height": 64.82537866567276
+          "x": 1,
+          "y": 1
         },
-        "imageType": "SVG",
+        "type": "TextBox",
+        "text": "<font>Comment?</font>",
+        "size": 72,
         "selected": false
       },
       {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Facebook_New_Logo_%282015%29.svg",
+        "src": "http://i.imgur.com/2j8INPq.png",
         "type": "Image",
-        "x": 803,
-        "y": 688,
+        "x": 28,
+        "y": 687,
         "scale": {
-          "width": 126.6301767338552,
-          "height": 47.60532959919368
+          "x": 0.38461538461538464,
+          "y": 0.38461538461538464,
+          "width": 155,
+          "height": 54.61538461538462
         },
-        "imageType": "SVG",
-        "selected": false
-      },
-      {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_WHO.svg",
-        "type": "Image",
-        "x": 578,
-        "y": 642,
-        "scale": {
-          "width": 141.9144582043762,
-          "height": 94.60963880291746
-        },
-        "imageType": "SVG",
+        "imageType": "PNG",
         "selected": false
       }
     ],
     "z": 0,
     "impScale": 3,
     "rotateX": 0,
-    "rotateY": -1.54,
+    "rotateY": 0,
     "rotateZ": 0,
-    "index": 2,
+    "index": 0,
     "selected": false,
     "active": true,
-    "x": 713,
-    "y": 356
+    "x": 180,
+    "y": 180
   },
   "fileName": "presentation-unnamed",
   "deckVersion": "1.0",
   "customBackgrounds": {
     "bgs": []
-  },
-  "overviewX": 446.5,
-  "overviewY": 268.5
+  }
 }
