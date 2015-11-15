@@ -1,0 +1,320 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 112,
+          "y": 23,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Les logiciels libre en santé<br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 341,
+          "y": 255,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>Pourquoi?</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 339,
+          "y": 407,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>Comment?</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/2j8INPq.png",
+          "type": "Image",
+          "x": 28,
+          "y": 687,
+          "scale": {
+            "x": 0.38461538461538464,
+            "y": 0.38461538461538464,
+            "width": 155,
+            "height": 54.61538461538462
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 180,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 301,
+          "y": 68,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>Pourquoi?</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/n7pSJYh.png",
+          "type": "Image",
+          "x": 260,
+          "y": 230,
+          "scale": {
+            "x": 0.5949999999999999,
+            "y": 0.5949999999999999,
+            "width": 475.9999999999999,
+            "height": 356.99999999999994
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 423,
+      "y": 357
+    },
+    {
+      "components": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/GNU_and_Tux.svg",
+          "type": "Image",
+          "x": 176,
+          "y": 56,
+          "scale": {
+            "width": 621,
+            "height": 435
+          },
+          "imageType": "SVG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 54,
+          "y": 498,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>Libre n'est pas synonyme de gratuit</font>",
+          "size": 59,
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Wikipedia-logo-v2-fr.svg",
+          "type": "Image",
+          "x": 847,
+          "y": 29,
+          "scale": {
+            "width": 135,
+            "height": 155
+          },
+          "imageType": "SVG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 62,
+          "y": 575,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>Tout ce qui est gratuit a un coût</font>",
+          "size": 43,
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
+          "type": "Image",
+          "x": 738,
+          "y": 586,
+          "scale": {
+            "width": 197.03762512362542,
+            "height": 64.82537866567276
+          },
+          "imageType": "SVG",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Facebook_New_Logo_%282015%29.svg",
+          "type": "Image",
+          "x": 803,
+          "y": 688,
+          "scale": {
+            "width": 126.6301767338552,
+            "height": 47.60532959919368
+          },
+          "imageType": "SVG",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_WHO.svg",
+          "type": "Image",
+          "x": 578,
+          "y": 642,
+          "scale": {
+            "width": 141.9144582043762,
+            "height": 94.60963880291746
+          },
+          "imageType": "SVG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -1.54,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": true,
+      "x": 713,
+      "y": 356
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/GNU_and_Tux.svg",
+        "type": "Image",
+        "x": 176,
+        "y": 56,
+        "scale": {
+          "width": 621,
+          "height": 435
+        },
+        "imageType": "SVG",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 54,
+        "y": 498,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font>Libre n'est pas synonyme de gratuit</font>",
+        "size": 59,
+        "selected": false
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Wikipedia-logo-v2-fr.svg",
+        "type": "Image",
+        "x": 847,
+        "y": 29,
+        "scale": {
+          "width": 135,
+          "height": 155
+        },
+        "imageType": "SVG",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 62,
+        "y": 575,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font>Tout ce qui est gratuit a un coût</font>",
+        "size": 43,
+        "selected": false
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
+        "type": "Image",
+        "x": 738,
+        "y": 586,
+        "scale": {
+          "width": 197.03762512362542,
+          "height": 64.82537866567276
+        },
+        "imageType": "SVG",
+        "selected": false
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Facebook_New_Logo_%282015%29.svg",
+        "type": "Image",
+        "x": 803,
+        "y": 688,
+        "scale": {
+          "width": 126.6301767338552,
+          "height": 47.60532959919368
+        },
+        "imageType": "SVG",
+        "selected": false
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_WHO.svg",
+        "type": "Image",
+        "x": 578,
+        "y": 642,
+        "scale": {
+          "width": 141.9144582043762,
+          "height": 94.60963880291746
+        },
+        "imageType": "SVG",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": -1.54,
+    "rotateZ": 0,
+    "index": 2,
+    "selected": false,
+    "active": true,
+    "x": 713,
+    "y": 356
+  },
+  "fileName": "presentation-unnamed",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 446.5,
+  "overviewY": 268.5
+}
