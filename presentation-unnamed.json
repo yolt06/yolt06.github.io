@@ -40,20 +40,6 @@
           "text": "<font>Comment?</font>",
           "size": 72,
           "selected": false
-        },
-        {
-          "src": "http://i.imgur.com/2j8INPq.png",
-          "type": "Image",
-          "x": 28,
-          "y": 687,
-          "scale": {
-            "x": 0.38461538461538464,
-            "y": 0.38461538461538464,
-            "width": 155,
-            "height": 54.61538461538462
-          },
-          "imageType": "PNG",
-          "selected": false
         }
       ],
       "z": 0,
@@ -63,7 +49,7 @@
       "rotateZ": 0,
       "index": 0,
       "selected": false,
-      "active": true,
+      "active": false,
       "x": 180,
       "y": 180
     },
@@ -330,17 +316,102 @@
           "selected": false
         },
         {
-          "src": "https://pixabay.com/static/uploads/photo/2015/05/25/16/08/creative-commons-783531_640.png",
-          "type": "Image",
-          "x": 140,
-          "y": 563,
+          "TextBox": {},
+          "x": 7,
+          "y": 590,
           "scale": {
-            "x": 0.434375,
-            "y": 0.434375,
-            "width": 278,
-            "height": 153.76875
+            "x": 1,
+            "y": 1
           },
-          "imageType": "PNG",
+          "type": "TextBox",
+          "size": 24,
+          "text": "&nbsp;au rang de patrimoine mondial de l’humanité et conféré<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 14,
+          "y": 628,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "à GNU la valeur symbolique de « Trésor du monde ».<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 14,
+          "y": 557,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "En janvier 2004, l’UNESCO a élevé le logiciel libre<br>",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Mozilla_Firefox_logo_2013.svg",
+          "type": "Image",
+          "x": 838,
+          "y": 271,
+          "scale": {
+            "width": 77.166832153083,
+            "height": 81.30855478276825
+          },
+          "imageType": "SVG",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo-ubuntu_no%28r%29-black_orange-hex.svg",
+          "type": "Image",
+          "x": 314,
+          "y": 480,
+          "scale": {
+            "width": 224.38741409968208,
+            "height": 50.62037969794939
+          },
+          "imageType": "SVG",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/VLC_Icon.svg",
+          "type": "Image",
+          "x": 34,
+          "y": 32,
+          "scale": {
+            "width": 71.03786256450378,
+            "height": 80.43993260980575
+          },
+          "imageType": "SVG",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/LibreOffice_Logo_Flat.svg",
+          "type": "Image",
+          "x": 708,
+          "y": 93,
+          "scale": {
+            "width": 214.74080026073835,
+            "height": 50.912724944447355
+          },
+          "imageType": "SVG",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/BOINC_logo_July_2007.svg",
+          "type": "Image",
+          "x": 56,
+          "y": 673,
+          "scale": {
+            "width": 166.22035844735586,
+            "height": 69.46522442576067
+          },
+          "imageType": "SVG",
           "selected": false
         }
       ],
@@ -350,82 +421,627 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 3,
+      "selected": true,
+      "active": true,
+      "x": 559,
+      "y": 609
+    },
+    {
+      "components": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Lessig_portrait.jpg",
+          "type": "Image",
+          "x": 143,
+          "y": 373,
+          "scale": {
+            "x": 0.16425120772946858,
+            "y": 0.16425120772946858,
+            "width": 169.99999999999997,
+            "height": 226.66666666666663
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 24,
+          "y": 11,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "Une licence libre est un texte juridique à valeur<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 25,
+          "y": 50,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "contractuelle, décrivant en terme de droit les 4 libertés.&nbsp;<br>",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/75/Big_Buck_Bunny_Trailer_400p.ogg/Big_Buck_Bunny_Trailer_400p.ogg.360p.webm",
+          "type": "Video",
+          "x": 516,
+          "y": 89,
+          "scale": {
+            "x": 0.7484375,
+            "y": 0.7484375,
+            "width": 479,
+            "height": 266.44374999999997
+          },
+          "shortSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/75/Big_Buck_Bunny_Trailer_400p.ogg/Big_Buck_Bunny_Trailer_400p.ogg.360p.webm",
+          "videoType": "html5",
+          "srcType": "video/webm",
+          "selected": false
+        },
+        {
+          "src": "http://www.ninapaley.com/FluffArchives/fluff_images/fl971221.gif",
+          "type": "Image",
+          "x": 469,
+          "y": 421,
+          "scale": {
+            "x": 0.67,
+            "y": 0.67,
+            "width": 402,
+            "height": 282.74
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "src": "https://pixabay.com/static/uploads/photo/2015/05/25/16/08/creative-commons-783531_640.png",
+          "type": "Image",
+          "x": 26,
+          "y": 120,
+          "scale": {
+            "x": 0.6375,
+            "y": 0.6375,
+            "width": 408,
+            "height": 225.67499999999998
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -1.56,
+      "rotateZ": 0,
+      "index": 4,
       "selected": false,
       "active": false,
-      "x": 715,
-      "y": 544
+      "x": 946,
+      "y": 615
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 36,
+          "y": 19,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 54,
+          "text": "<font>Quelques problématiques en médecine.</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 20,
+          "y": 124,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "&nbsp; « Cette confusion entre un outil professionnel de gestion des dossiers et&nbsp;<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 46,
+          "y": 157,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "prescriptions avec les messages publicitaires de l'industrie pharmaceutique<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 45,
+          "y": 196,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "&nbsp;est inacceptable, mais les médecins sont impuissants sauf à changer de logiciel&nbsp;<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 46,
+          "y": 229,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "ce qui est complexe et le choix des indépendants se réduit considérablement. »<br>Extrait de la lettre de Olivier Rozand (médecin généraliste) adressé à la ministre de la santé<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 24,
+          "y": 353,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "\"Ce dispositif, que nous appellerons échosthétoscope,&nbsp;<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 20,
+          "y": 391,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "est aujourd’hui disponible dans des formats propriétaires&nbsp;<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 21,
+          "y": 428,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "à un coût prohibitif, au point que nombre de médecins se&nbsp;<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 22,
+          "y": 463,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "déclarent favorables à l’adoption d’une telle technologie&nbsp;<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 25,
+          "y": 502,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "n’était ce le coût oscillant entre 8000€ et 12000€.\"<br>",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/fr/1/17/Prescrire.png",
+          "type": "Image",
+          "x": 855,
+          "y": 133,
+          "scale": {
+            "x": 0.5836431226765799,
+            "y": 0.5836431226765799,
+            "width": 157,
+            "height": 57.78066914498141
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://echopen.org/images/b/b9/63b93809-fbac-48a8-a166-8c0228122232.jpg",
+          "type": "Image",
+          "x": 645,
+          "y": 360,
+          "scale": {
+            "x": 0.53,
+            "y": 0.53,
+            "width": 318,
+            "height": 170.13
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 34,
+          "y": 571,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "\"Quoi que je voie ou entende dans la société pendant,&nbsp;<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 36,
+          "y": 609,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "ou même hors de l'exercice de ma profession, je tairai<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 35,
+          "y": 646,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "&nbsp;ce qui n'a jamais besoin d'être divulgué, regardant la&nbsp;<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 42,
+          "y": 682,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "discrétion comme un devoir en pareil cas.\"<br>",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Hippocrates_rubens.jpg",
+          "type": "Image",
+          "x": 504,
+          "y": 678,
+          "scale": {
+            "x": 0.023255813953488493,
+            "y": 0.023255813953488493,
+            "width": 55.000000000000284,
+            "height": 76.76744186046551
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "https://static.fsf.org/nosvn/FSF30-video/FSF_30_720p.webm",
+          "type": "Video",
+          "x": 629,
+          "y": 543,
+          "scale": {
+            "x": 0.29140625,
+            "y": 0.29140625,
+            "width": 373,
+            "height": 209.81249999999997
+          },
+          "shortSrc": "https://static.fsf.org/nosvn/FSF30-video/FSF_30_720p.webm",
+          "videoType": "html5",
+          "srcType": "video/webm",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -1.55,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 1007,
+      "y": 442
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 340,
+          "y": 254,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font>Penser aux crédits (dont RMLL) et licences</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 1860,
+      "y": 460
     }
   ],
   "activeSlide": {
     "components": [
       {
         "TextBox": {},
-        "x": 112,
-        "y": 23,
+        "x": 323,
+        "y": 9,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
-        "text": "Les logiciels libre en santé<br>",
+        "text": "<font>Définitions</font>",
         "size": 72,
         "selected": false
       },
       {
         "TextBox": {},
-        "x": 341,
-        "y": 255,
+        "x": 16,
+        "y": 140,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
-        "text": "<font>Pourquoi?</font>",
-        "size": 72,
+        "text": "Les 4 libertés du logiciel libre :<br>",
+        "size": 48,
         "selected": false
       },
       {
         "TextBox": {},
-        "x": 339,
-        "y": 407,
+        "x": 22,
+        "y": 226,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
-        "text": "<font>Comment?</font>",
-        "size": 72,
+        "size": 24,
+        "text": "Liberté 0 : la liberté d'utiliser le logiciel pour quelque usage que ce soit (sans aucune restriction).<br>",
         "selected": false
       },
       {
-        "src": "http://i.imgur.com/2j8INPq.png",
+        "TextBox": {},
+        "x": 21,
+        "y": 282,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 24,
+        "text": "Liberté 1 : la liberté d'étudier le fonctionnent du programme.<br>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 20,
+        "y": 332,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 24,
+        "text": "Liberté 2 : la liberté de redistribuer des copies (sans limite).<br>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 17,
+        "y": 395,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 24,
+        "text": "Liberté 3 : la liberté d'améliorer le programme (l’adapter aux besoins des divers utilisateurs)<br>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 29,
+        "y": 437,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 24,
+        "text": "et d'en diffuser les améliorations de façon à ce que l'ensemble de la communauté&nbsp;<br>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 30,
+        "y": 480,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 24,
+        "text": "puisse en bénéficier.<br>",
+        "selected": false
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Richard_Matthew_Stallman.jpeg",
         "type": "Image",
-        "x": 28,
-        "y": 687,
+        "x": 666,
+        "y": 505,
         "scale": {
-          "x": 0.38461538461538464,
-          "y": 0.38461538461538464,
-          "width": 155,
-          "height": 54.61538461538462
+          "x": 0.7099236641221374,
+          "y": 0.7099236641221374,
+          "width": 279,
+          "height": 211.55725190839692
         },
-        "imageType": "PNG",
+        "imageType": "JPEG",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 7,
+        "y": 590,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 24,
+        "text": "&nbsp;au rang de patrimoine mondial de l’humanité et conféré<br>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 14,
+        "y": 628,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 24,
+        "text": "à GNU la valeur symbolique de « Trésor du monde ».<br>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 14,
+        "y": 557,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 24,
+        "text": "En janvier 2004, l’UNESCO a élevé le logiciel libre<br>",
+        "selected": false
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Mozilla_Firefox_logo_2013.svg",
+        "type": "Image",
+        "x": 838,
+        "y": 271,
+        "scale": {
+          "width": 77.166832153083,
+          "height": 81.30855478276825
+        },
+        "imageType": "SVG",
+        "selected": false
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo-ubuntu_no%28r%29-black_orange-hex.svg",
+        "type": "Image",
+        "x": 314,
+        "y": 480,
+        "scale": {
+          "width": 224.38741409968208,
+          "height": 50.62037969794939
+        },
+        "imageType": "SVG",
+        "selected": false
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/VLC_Icon.svg",
+        "type": "Image",
+        "x": 34,
+        "y": 32,
+        "scale": {
+          "width": 71.03786256450378,
+          "height": 80.43993260980575
+        },
+        "imageType": "SVG",
+        "selected": false
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/LibreOffice_Logo_Flat.svg",
+        "type": "Image",
+        "x": 708,
+        "y": 93,
+        "scale": {
+          "width": 214.74080026073835,
+          "height": 50.912724944447355
+        },
+        "imageType": "SVG",
+        "selected": false
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/BOINC_logo_July_2007.svg",
+        "type": "Image",
+        "x": 56,
+        "y": 673,
+        "scale": {
+          "width": 166.22035844735586,
+          "height": 69.46522442576067
+        },
+        "imageType": "SVG",
         "selected": false
       }
     ],
     "z": 0,
     "impScale": 3,
-    "rotateX": 0,
+    "rotateX": 1.54,
     "rotateY": 0,
     "rotateZ": 0,
-    "index": 0,
-    "selected": false,
+    "index": 3,
+    "selected": true,
     "active": true,
-    "x": 180,
-    "y": 180
+    "x": 559,
+    "y": 609
   },
   "fileName": "presentation-unnamed",
   "deckVersion": "1.0",
   "customBackgrounds": {
     "bgs": []
-  }
+  },
+  "overviewX": 1020,
+  "overviewY": 397.5
 }
