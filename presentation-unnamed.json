@@ -421,8 +421,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 3,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "x": 559,
       "y": 609
     },
@@ -782,15 +782,290 @@
       "components": [
         {
           "TextBox": {},
-          "x": 340,
-          "y": 254,
+          "x": 317,
+          "y": 19,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 40,
+          "text": "<font>Et quelques réponses</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 29,
+          "y": 93,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
           "size": 24,
-          "text": "<font>Penser aux crédits (dont RMLL) et licences</font>",
+          "text": "<font>Orthanc</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 52,
+          "y": 127,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 16,
+          "text": "serveur DICOM (Digital Imagind and Communication in Medicine)<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 53,
+          "y": 155,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 16,
+          "text": "&nbsp;libre pour la routine clinique et la recherche médicale.<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 35,
+          "y": 234,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font>GNU Health</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 45,
+          "y": 279,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 16,
+          "text": "Logiciel libre gérant le dossier médical personnel, le système d'information hospitalier et l'informatique médicale.<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 331,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font>Debian-Medfile</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 42,
+          "y": 374,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 16,
+          "text": "Variant du système d'exploitation Debian, son développement est tourné vers la pratique médicale, l'imagerie et la bioinformatique<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 45,
+          "y": 424,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font>FreeMedForms</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 41,
+          "y": 470,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 16,
+          "text": "Un gestionnaire de dossier patient, un assistant de prescription,&nbsp;<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 47,
+          "y": 496,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 16,
+          "text": "un gestionnaire de bases de données médicamenteuses et des interactions,...<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 47,
+          "y": 573,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "Pack Framakey Dys<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 618,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 16,
+          "text": "compilation de logiciel libres à installer sur une clé USB pour les élèves&nbsp;<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 652,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 16,
+          "text": "et collégiens présentant un trouble spécifique du développement (dysphasie, dyspraxies…)<br>",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/OrthancLogo.png",
+          "type": "Image",
+          "x": 579,
+          "y": 118,
+          "scale": {
+            "x": 0.33548387096774196,
+            "y": 0.33548387096774196,
+            "width": 208.00000000000003,
+            "height": 66.09032258064516
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/Vjj1zsf.jpg",
+          "type": "Image",
+          "x": 722,
+          "y": 409,
+          "scale": {
+            "x": 0.46436781609195404,
+            "y": 0.46436781609195404,
+            "width": 202,
+            "height": 42.72183908045977
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 729,
+          "y": 473,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font>iHRIS</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 729,
+          "y": 512,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 16,
+          "text": "<font>Ensemble de logiciels permettant</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 727,
+          "y": 536,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 16,
+          "text": "<font>d'optimiser la santé publique,adopté en&nbsp;</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 45,
+          "y": 528,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 16,
+          "text": "<font>Notamment choisi par une maternité de Madagascar.</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 730,
+          "y": 563,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 16,
+          "text": "<font>Inde notamment.</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 56,
+          "y": 181,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 16,
+          "text": "<font>Notamment adopté par le CHU de Liège et récompensé en 2015 par la FSF.</font>",
           "selected": false
         }
       ],
@@ -802,246 +1077,195 @@
       "index": 6,
       "selected": false,
       "active": false,
-      "x": 1860,
-      "y": 460
+      "x": 1247,
+      "y": 241
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 250,
+          "y": 25,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 27,
+          "text": "<font>D'autres problèmes, pour d'autres solutions.</font>",
+          "selected": false
+        },
+        {
+          "src": "https://www.youtube.com/watch?v=L5rVH1KGBCY",
+          "type": "Video",
+          "x": 269,
+          "y": 153,
+          "scale": {
+            "width": 425,
+            "height": 344
+          },
+          "shortSrc": "L5rVH1KGBCY",
+          "videoType": "youtube",
+          "srcType": "yt",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Logo-hal.png",
+          "type": "Image",
+          "x": 735,
+          "y": 115,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/e7/PLOS_ONE_logo_2012.svg",
+          "type": "Image",
+          "x": 10,
+          "y": 233,
+          "scale": {
+            "width": 205.7948214776001,
+            "height": 82.31792859104003
+          },
+          "imageType": "SVG",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/Open_Access_logo_PLoS_white.svg",
+          "type": "Image",
+          "x": 59,
+          "y": 452,
+          "scale": {
+            "width": 145.54207794486237,
+            "height": 227.40949678884743
+          },
+          "imageType": "SVG",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Aaron_Swartz_at_Boston_Wikipedia_Meetup%2C_2009-08-18.jpg",
+          "type": "Image",
+          "x": 736,
+          "y": 491,
+          "scale": {
+            "x": 0.06666666666666674,
+            "y": 0.06666666666666674,
+            "width": 216.00000000000023,
+            "height": 172.80000000000018
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": true,
+      "x": 1478,
+      "y": 410
     }
   ],
   "activeSlide": {
     "components": [
       {
         "TextBox": {},
-        "x": 323,
-        "y": 9,
+        "x": 250,
+        "y": 25,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
-        "text": "<font>Définitions</font>",
-        "size": 72,
+        "size": 27,
+        "text": "<font>D'autres problèmes, pour d'autres solutions.</font>",
         "selected": false
       },
       {
-        "TextBox": {},
-        "x": 16,
-        "y": 140,
+        "src": "https://www.youtube.com/watch?v=L5rVH1KGBCY",
+        "type": "Video",
+        "x": 269,
+        "y": 153,
         "scale": {
-          "x": 1,
-          "y": 1
+          "width": 425,
+          "height": 344
         },
-        "type": "TextBox",
-        "text": "Les 4 libertés du logiciel libre :<br>",
-        "size": 48,
+        "shortSrc": "L5rVH1KGBCY",
+        "videoType": "youtube",
+        "srcType": "yt",
         "selected": false
       },
       {
-        "TextBox": {},
-        "x": 22,
-        "y": 226,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 24,
-        "text": "Liberté 0 : la liberté d'utiliser le logiciel pour quelque usage que ce soit (sans aucune restriction).<br>",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 21,
-        "y": 282,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 24,
-        "text": "Liberté 1 : la liberté d'étudier le fonctionnent du programme.<br>",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 20,
-        "y": 332,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 24,
-        "text": "Liberté 2 : la liberté de redistribuer des copies (sans limite).<br>",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 17,
-        "y": 395,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 24,
-        "text": "Liberté 3 : la liberté d'améliorer le programme (l’adapter aux besoins des divers utilisateurs)<br>",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 29,
-        "y": 437,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 24,
-        "text": "et d'en diffuser les améliorations de façon à ce que l'ensemble de la communauté&nbsp;<br>",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 30,
-        "y": 480,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 24,
-        "text": "puisse en bénéficier.<br>",
-        "selected": false
-      },
-      {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Richard_Matthew_Stallman.jpeg",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Logo-hal.png",
         "type": "Image",
-        "x": 666,
-        "y": 505,
-        "scale": {
-          "x": 0.7099236641221374,
-          "y": 0.7099236641221374,
-          "width": 279,
-          "height": 211.55725190839692
-        },
-        "imageType": "JPEG",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 7,
-        "y": 590,
+        "x": 735,
+        "y": 115,
         "scale": {
           "x": 1,
           "y": 1
         },
-        "type": "TextBox",
-        "size": 24,
-        "text": "&nbsp;au rang de patrimoine mondial de l’humanité et conféré<br>",
+        "imageType": "PNG",
         "selected": false
       },
       {
-        "TextBox": {},
-        "x": 14,
-        "y": 628,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 24,
-        "text": "à GNU la valeur symbolique de « Trésor du monde ».<br>",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 14,
-        "y": 557,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 24,
-        "text": "En janvier 2004, l’UNESCO a élevé le logiciel libre<br>",
-        "selected": false
-      },
-      {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Mozilla_Firefox_logo_2013.svg",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/e/e7/PLOS_ONE_logo_2012.svg",
         "type": "Image",
-        "x": 838,
-        "y": 271,
+        "x": 10,
+        "y": 233,
         "scale": {
-          "width": 77.166832153083,
-          "height": 81.30855478276825
+          "width": 205.7948214776001,
+          "height": 82.31792859104003
         },
         "imageType": "SVG",
         "selected": false
       },
       {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo-ubuntu_no%28r%29-black_orange-hex.svg",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/Open_Access_logo_PLoS_white.svg",
         "type": "Image",
-        "x": 314,
-        "y": 480,
+        "x": 59,
+        "y": 452,
         "scale": {
-          "width": 224.38741409968208,
-          "height": 50.62037969794939
+          "width": 145.54207794486237,
+          "height": 227.40949678884743
         },
         "imageType": "SVG",
         "selected": false
       },
       {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/VLC_Icon.svg",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Aaron_Swartz_at_Boston_Wikipedia_Meetup%2C_2009-08-18.jpg",
         "type": "Image",
-        "x": 34,
-        "y": 32,
+        "x": 736,
+        "y": 491,
         "scale": {
-          "width": 71.03786256450378,
-          "height": 80.43993260980575
+          "x": 0.06666666666666674,
+          "y": 0.06666666666666674,
+          "width": 216.00000000000023,
+          "height": 172.80000000000018
         },
-        "imageType": "SVG",
-        "selected": false
-      },
-      {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/LibreOffice_Logo_Flat.svg",
-        "type": "Image",
-        "x": 708,
-        "y": 93,
-        "scale": {
-          "width": 214.74080026073835,
-          "height": 50.912724944447355
-        },
-        "imageType": "SVG",
-        "selected": false
-      },
-      {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/BOINC_logo_July_2007.svg",
-        "type": "Image",
-        "x": 56,
-        "y": 673,
-        "scale": {
-          "width": 166.22035844735586,
-          "height": 69.46522442576067
-        },
-        "imageType": "SVG",
+        "imageType": "JPG",
         "selected": false
       }
     ],
     "z": 0,
     "impScale": 3,
-    "rotateX": 1.54,
+    "rotateX": 0,
     "rotateY": 0,
     "rotateZ": 0,
-    "index": 3,
-    "selected": true,
+    "index": 7,
+    "selected": false,
     "active": true,
-    "x": 559,
-    "y": 609
+    "x": 1478,
+    "y": 410
   },
   "fileName": "presentation-unnamed",
   "deckVersion": "1.0",
   "customBackgrounds": {
     "bgs": []
-  },
-  "overviewX": 1020,
-  "overviewY": 397.5
+  }
 }
