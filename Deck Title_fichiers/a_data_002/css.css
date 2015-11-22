@@ -1,0 +1,180 @@
+body
+{
+	background-color: #fff;
+}
+
+p, blockquote, li, h3
+{
+	font-family: Verdana, "Lucida Grande", Tahoma, Helvetica;
+	font-size: 0.9em;
+	line-height: 1.6em;
+	text-align: left;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+blockquote
+{
+	margin-left: 20px;
+	margin-right: 0px;
+}
+
+#head
+{
+	padding: 8px;
+        height: 72px;
+        margin-bottom: 8px;
+}
+
+#head, #sidebar
+{
+        background-color: #CEF;
+        border: 1px solid #08C;
+}
+
+#head img {
+        border: 0px;
+}
+
+#container
+{
+	width: 760px;
+	\width: 770px;
+	w\idth: 760px;
+	margin-left: auto;
+	margin-right: auto;
+        padding-top: 10px;
+}
+
+#sidebar
+{
+	float: left;
+	width: 150px;
+	\width: 150px;
+	w\idth: 150px;
+	margin-right: 5px;
+        padding-bottom: 10px;
+}
+#sidebar p
+{
+	line-height: 15px;
+	font-size: 10px;
+}
+#sidebar a
+{
+	border: 0px;
+	color: #C00;
+}
+
+#content
+{
+	margin-left: 155px;
+}
+
+p.note
+{
+       background-color: #EEE;
+       border: 1px solid black;
+       padding: 8px;
+       margin-left: 8px;
+       margin-top: 8px;
+}
+
+#foot
+{
+	clear: both;
+	margin-top: 5px;
+	text-align: center;
+}
+#accessibility
+{
+	position: absolute;
+	top: -10000px;
+}
+a
+{
+	color: black;
+}
+
+h1
+{
+	font-weight: normal;
+	text-decoration:none;
+	font-family: Georgia, Times, Serif;
+	font-size: 3em;
+}
+
+h2
+{
+	font-weight: normal;
+	font-family: Georgia, Times, Serif;
+	font-size: 1em;
+	font-style: italic;
+}
+
+h3
+{
+	font-weight: normal;
+}
+
+h3 a
+{
+	text-decoration: none;
+	font-weight: normal;
+	font-family: Georgia, Times, Serif;
+	font-size: 1.5em;
+}
+
+h1 a, h2 a
+{
+	text-decoration: none;
+}
+.caps
+{
+	letter-spacing: 0.1em;
+	font-size: 10px;
+}
+
+#content hr
+{
+	color: #ccc;
+	width: 66%;
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+#content img
+{
+        border: 0px;
+        margin-left: 12px;
+}
+
+img.divider
+{
+	align: center;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+td {
+  padding: 0.5em;
+  background: #f8f8f8;
+  /* text-align: center; */
+}
+
+#txpCommentInputForm {
+  margin-left: 80px;
+}
+
+#txpCommentInputForm table {
+  border: 1px solid black;
+}
+
+#txpCommentInputForm td {
+  text-align: left;
+}
+
+#txpCommentInputForm label {
+  font-weight: bold;
+}
+
