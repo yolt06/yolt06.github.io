@@ -1441,14 +1441,14 @@
       ],
       "z": 0,
       "impScale": 3,
-      "rotateX": 0,
-      "rotateY": 1.6,
-      "rotateZ": 0,
+      "rotateX": 1.4,
+      "rotateY": -0.02,
+      "rotateZ": -0.01,
       "index": 10,
       "selected": false,
-      "active": false,
-      "x": 2342,
-      "y": 381
+      "active": true,
+      "x": 3072,
+      "y": 94
     },
     {
       "components": [
@@ -1551,8 +1551,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 12,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "x": 3540,
       "y": 740
     }
@@ -1560,67 +1560,41 @@
   "activeSlide": {
     "components": [
       {
-        "src": "https://framasphere.org/uploads/images/thumb_large_5b801fecbabf6e01940b.png",
+        "src": "http://giant.gfycat.com/YellowSafeFoal.gif",
         "type": "Image",
-        "x": 632,
-        "y": 136,
+        "x": 194,
+        "y": 317,
         "scale": {
           "x": 1,
           "y": 1
         },
-        "imageType": "PNG",
-        "selected": false
-      },
-      {
-        "src": "https://2015.rmll.info/sites/2015.rmll.info/squelettes/css/img/logo-site_header.png",
-        "type": "Image",
-        "x": 64,
-        "y": 445,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "imageType": "PNG",
-        "selected": false
-      },
-      {
-        "src": "https://blog.nicelab.org/wp-content/uploads/2014/03/copy-banniere_nicelab_400x80.png",
-        "type": "Image",
-        "x": 126,
-        "y": 122,
-        "scale": {
-          "x": 0.8975,
-          "y": 0.8975,
-          "width": 359,
-          "height": 71.8
-        },
-        "imageType": "PNG",
+        "imageType": "GIF",
         "selected": false
       },
       {
         "TextBox": {},
-        "x": 14,
-        "y": 706,
+        "x": 217,
+        "y": 74,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
-        "text": "Images sous licences creative commons permettant au moins le partage à l'identique sur wikimedia ou flickr<br>",
-        "size": 21,
+        "text": "Et maintenant....<br>",
+        "size": 72,
         "selected": false
       }
     ],
     "z": 0,
     "impScale": 3,
-    "rotateX": 0,
-    "rotateY": 0,
-    "rotateZ": 0,
-    "index": 12,
-    "selected": true,
+    "rotateX": 1.4,
+    "rotateY": -0.02,
+    "rotateZ": -0.01,
+    "index": 10,
+    "selected": false,
     "active": true,
-    "x": 3540,
-    "y": 740
+    "x": 3072,
+    "y": 94
   },
   "fileName": "presentation-unnamed",
   "deckVersion": "1.0",
@@ -1628,5 +1602,5 @@
     "bgs": []
   },
   "overviewX": 1860,
-  "overviewY": 460
+  "overviewY": 417
 }

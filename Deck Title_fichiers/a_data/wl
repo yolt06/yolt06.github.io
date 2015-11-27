@@ -1,4 +1,4 @@
-(function(){var containers = [{"id":"grv-personalization-56","url":"https://secure-api.gravity.com/v1/api/intelligence/w2?sg=fca4fa8af1286d8a77f26033fdeed202&pl=56&ug=&ad=&sp=1462","width":"100.0%","height":"424px","siteGuid":"fca4fa8af1286d8a77f26033fdeed202","placement":56,"userGuid":"","widgetLoaderHooks":[]}];
+(function(){var containers = [{"id":"grv-personalization-14","url":"https://secure-api.gravity.com/v1/api/intelligence/w2?sg=fca4fa8af1286d8a77f26033fdeed202&pl=14&ug=&ad=&sp=1730","width":"100.0%","height":"1015px","siteGuid":"fca4fa8af1286d8a77f26033fdeed202","placement":14,"userGuid":"","widgetLoaderHooks":[]}];
 /*
   Provides GravityUtils.includeJs() to dynamically source JavaScripts.
 */
@@ -669,7 +669,7 @@ loadWidgets = function($) {
         aolOmniPassThroughJson = toJsonLite(aolOmniPassThrough);
       }
     }
-    wlClientTime = '1448561501677';
+    wlClientTime = '1448644342829';
     clickCaptureCallbacks = ((_ref7 = window.grvArticleClickCaptureCbs) != null ? (_ref8 = _ref7[c.siteGuid || '']) != null ? _ref8[c.placement.toString() || ''] : void 0 : void 0) || [];
     w2Params = {
       sourceUrl: encodeURIComponent(sourceUrl),
